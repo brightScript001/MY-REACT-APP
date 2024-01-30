@@ -10,7 +10,10 @@ export default function MyApp() {
     <div>
       <h1>My First React App</h1>
       <MyButton />
-      <h2>Welcome, Nice to meet you</h2>
+      <h2>
+        Welcome,
+        <br /> Nice to meet you
+      </h2>
       <MyButton />
     </div>
   );
